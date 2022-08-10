@@ -1,4 +1,4 @@
-import Race from './Races';
+/* import Race from './Races';
 import Archetype from './Archetypes';
 import Energy from './Energy';
 import { Elf } from './Races';
@@ -28,4 +28,4 @@ export default class Character {
       amount: getRandomInt(1, 10),
     }
   }
-}
+} */
